@@ -1,5 +1,5 @@
-
 # Proyek Akhir Pemrograman Berbasis Objek 1
+Ita Khairati_2310010219_4BNR_PBO1
 
 Proyek ini adalah contoh sederhana aplikasi **Sistem Manajemen Jadwal Petugas Lapangan Dukcapil** menggunakan Java sebagai tugas akhir dari mata kuliah Pemrograman Berbasis Objek 1.
 
